@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://uwatch4free.vercel.app/
+Host: https://uwatch4free.netlify.app/
 
 # Sitemaps
-Sitemap: https://uwatch4free.vercel.app/sitemap.xml
+Sitemap: https://uwatch4free.netlify.app/sitemap.xml
